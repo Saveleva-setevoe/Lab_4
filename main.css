@@ -1,0 +1,79 @@
+
+.container2 {
+  width: 100%;
+  padding-right: 200px;
+  padding-left: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  background: #F6F6F8;
+}
+.container3 {
+/*  max-width: 100%;*/
+  padding-right: 200px;
+  padding-left: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  background: #F6F6F8;
+}
+#bstext {
+	margin: -280px auto 0px; /*заезжаем вверх на слайдер, на 200 пикселей*/
+   /* background-color: #e6e6e673; /*если по каким то причинам фон картинка не отобразился, заливаем цветом*/
+    /* background-image: url(../img/wool-diagonal-for-light-background.png); /*делаем фон картинку*/ 
+    /* background-repeat: repeat; /*повторяем картинку по вертикали и горизонтали*/ 
+	/*border: 1px solid #C8A35F;*/												
+    z-index: 1; /*положение элемента*/	
+    padding: 0; /*убираем отступы*/
+	position: relative; /* Абсолютное позиционирование */
+	text-align: center;
+    bottom: 200px; /* Положение от нижнего края */
+	/*padding: 0px 0px 0px 0px;*/
+}
+
+
+
+
+.center{
+ display: block;
+ margin: 0 auto;
+}
+
+
+#bstext4 {
+	/*margin: -50px auto 0px; /*заезжаем вверх на слайдер, на 200 пикселей*/
+   /* background-color: #e6e6e673; /*если по каким то причинам фон картинка не отобразился, заливаем цветом*/
+    /* background-image: url(../img/wool-diagonal-for-light-background.png); /*делаем фон картинку*/ 
+    /* background-repeat: repeat; /*повторяем картинку по вертикали и горизонтали*/ 
+	/*border: 1px solid #C8A35F;*/												
+    z-index: 1; /*положение элемента*/	
+    padding: 0; /*убираем отступы*/
+	position: relative; /* Абсолютное позиционирование */
+	text-align: left;
+  /*  bottom: 100px; /* Положение от нижнего края */
+	/*padding: 0px 0px 0px 0px;*/
+}
+p.p11 {
+   /* margin-bottom: 5px; /*задаем отступ*/
+    color: #fff; /*задаем цвет шрифта*/
+    font-size: 50px; /*размер шрифта*/
+	/*padding: 0px 0px 0px 50px; /* сверху справа снизу слева*/
+}
+p.p20 {
+   /* margin-bottom: 5px; /*задаем отступ*/
+    color: black; /*задаем цвет шрифта*/
+    font-size: 40px; /*размер шрифта*/
+	/*padding: 0px 0px 0px 50px; /* сверху справа снизу слева*/
+}
+p.p21 {
+   /* margin-bottom: 5px; /*задаем отступ*/
+    color:#999999; /*задаем цвет шрифта*/
+    font-size: 20px; /*размер шрифта*/
+	/*padding: 0px 0px 0px 50px; /* сверху справа снизу слева*/
+}
+
+p.p12 {
+   /* margin-bottom: 5px; /*задаем отступ*/
+    color: #fff; /*задаем цвет шрифта*/
+    font-size: 30px; /*размер шрифта*/
+	/*padding: 0px 0px 0px 0px; /* сверху справа снизу слева*/
+	
+}
