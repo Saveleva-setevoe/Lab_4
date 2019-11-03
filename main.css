@@ -1,0 +1,52 @@
+.container2 {
+  width: 100%;
+  padding-right: 200px;
+  padding-left: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  background: #F6F6F8;
+}
+.container3 {
+  padding-right: 200px;
+  padding-left: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  background: #F6F6F8;
+}
+#bstext {
+	margin: -280px auto 0px; /*заезжаем вверх на слайдер, на 200 пикселей*/											
+    z-index: 1; /*положение элемента*/	
+    padding: 0; 
+	position: relative; 
+	text-align: center;
+    bottom: 200px; /* Положение от нижнего края */
+}
+
+.center{
+ display: block;
+ margin: 0 auto;
+}
+
+#bstext4 {	
+    z-index: 1; 
+    padding: 0; 
+	position: relative; 
+	text-align: left;
+}
+p.p11 {
+    color: #fff; 
+    font-size: 50px; 
+}
+p.p20 {
+    color: black; 
+    font-size: 40px; 
+}
+p.p21 {
+    color:#999999; 
+    font-size: 20px; 
+}
+
+p.p12 {
+    color: #fff; 
+    font-size: 30px; 
+}
